@@ -85,8 +85,6 @@ button {  width: auto; overflow: visible; }
  /* Primary Styles
     Author: 
  */
-body {background: url(../grfx/tile.gif) repeat;}
-
 header {
 	background: url(../grfx/hmsp.png) no-repeat;
 	height: 200px;
