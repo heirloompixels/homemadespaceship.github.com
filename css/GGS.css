@@ -161,6 +161,8 @@ body {
   font-size: 1em;
   line-height: 1.5em;
   background-color: rgb(255, 130, 126);
+  background-color: rgb(218, 220, 0);
+  font-family: "PT Sans", futura, arial, sans-serif;
 }
 .small {
   /* 13px / 18px */
@@ -208,7 +210,7 @@ body {
 *  5.55555% | %  25  50  75  100 | 5.55555%
 *
 */
-header, #twoway {
+header, footer, #twoway, #tech {
   margin: 0 5.555555555555555%;
 }
 h1, h2 {
@@ -219,6 +221,17 @@ h2 {
 }
 h3 {
   margin: 1.5em 0 1.5em;
+}
+div#headly {
+  background-color: rgb(220,218,202);
+}
+header h1{
+  color: rgb(255,255,255);
+}
+div#footerly { 
+  background-color: rgb(31,30,0);
+  color: rgb(255,255,255);
+  clear: both;
 }
 /*
 *  Simple elastic gutters
@@ -284,6 +297,10 @@ h3 {
     float: left;
     width: 50%;
   }
+    #tech .wrapper {
+    float: left;
+    width: 100%;
+  }
 }
 /* @media screen and (min-width: 888px) */
 @media screen and (min-width: 55.5em) {
@@ -300,7 +317,7 @@ h3 {
   
     font-size: 1em;
   }
-  header, #twoway {
+  header, #twoway, #tech {
     margin: 0 16.666666666666664%;
   }
 }
