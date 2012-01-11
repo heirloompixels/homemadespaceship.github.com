@@ -1,0 +1,17 @@
+---
+layout: green
+title: Learning from Spoons
+category: spoons
+---
+
+<div class="wrapper">
+h2. Learning from Spoons
+
+I'm not so sure that you can learn anything form spoons but I've been jumping into the unknown for long enough to know not to really trip over the details anymore.  So I set out, now, to follow the way of the spoon. 
+
+Forget about the self is the first task on the way, at least they say something similar in all those books I read back in my bohemian days.  Let go and just do, and things will happen.  So things happen, it makes sense, follow the way - the grain of the wood and something will happen. 
+
+I'm pretty sure wood wants to be a spoon. 
+
+
+</div>
