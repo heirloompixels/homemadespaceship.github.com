@@ -1,0 +1,22 @@
+---
+layout: green
+title: Tools
+---
+
+<div class="wrapper">
+
+h2. Tools
+
+2001 A Space Odyssey, opening scene.  Need I say more.  Humans are wired to love tools.  They kinda make us human.  
+
+Tools are also extremely beutuful.  Once upon a time the makers of tools went to great lenghts to make their tools beutufl.  Some makers still do - there is a large resurgence of great tools of quality not available for fifty years on the market today.  
+
+It's time to celebrate those tools, in their elegant functionality.  So I give you the tool fashion show. 
+
+Now go support your local tool maker.
+
+The Joiner
+
+The Mechanic
+
+</div>

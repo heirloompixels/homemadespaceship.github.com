@@ -1,0 +1,87 @@
+---
+layout: folio 
+title: Winter Folio MMXII 
+category: folio
+---
+
+
+
+<section id="tube" class="wrapper">
+
+notextile. <img src="/grfx/portfolio/amberTube1.jpg" />
+
+</section> 
+
+<section class="wrapper" id="ankita">
+
+
+notextile. <img src="/grfx/painted/ghostBison/process1.jpg" />
+
+notextile. <img src="/grfx/painted/ankita/process1.jpg" />
+
+notextile. <img src="/grfx/painted/muxy/muxy.jpg"/>
+
+</section>
+
+
+<section class="wrapper" id="baskets">
+
+notextile. <img src="/grfx/portfolio/basketAfricanBead4.jpg" />
+
+notextile. <img src="/grfx/painted/squigles/squigles.jpg"/>
+
+</section> 
+
+<section class="wrapper" id="cannedElephant">
+
+notextile. <img src="/grfx/painted/cannedElephant/process1.jpg" />
+
+</section>
+
+<section class="wrapper" id="rainbowBlanket">
+
+notextile. <img src="/grfx/portfolio/rainbowBlanket3.jpg" />
+
+</section>
+
+
+<section class="wrapper" id="crystalPouch">
+
+notextile. <img src="/grfx/portfolio/crystalPouch3.jpg" />
+
+notextile. <img src="/grfx/painted/shellWoman/shellWoman.jpg"/>
+
+notextile. <img src="/grfx/portfolio/tanStripeTube3.jpg" />
+
+</section> 
+
+<section class="wrapper" id="amber"> 
+
+notextile. <img src="/grfx/portfolio/yellowRedMerinoScarf4.jpg" />
+
+notextile. <img src="/grfx/portfolio/amberNecklace.jpg" />
+
+</section> 
+
+
+
+<section id="squares">
+
+notextile. <img src="/grfx/painted/squares1/process1.jpg"/>
+
+notextile. <img src="/grfx/portfolio/greenLoopsCowl2.jpg" />
+
+</section>
+
+
+
+<section id="supnasMom">
+
+notextile. <img src="/grfx/portfolio/indigoBlanket4.jpg" />
+
+notextile. <img src="/grfx/painted/supnasMom/process1.jpg"/>
+
+</section>
+
+
+

@@ -309,9 +309,15 @@ img::-moz-selection {
 }
 body {
   -webkit-tap-highlight-color: #ffc300;
-  background: rgb(218, 220, 0);
   color: rgb(31,30,0);
 }
+body.green {
+  background: rgb(218, 220, 0);
+}
+body.folio {
+  background: rgb(255,255,255);
+}
+
 div#footerly { 
   background-color: rgb(31,30,0);
   color: rgb(255,255,255);
@@ -339,6 +345,10 @@ h3 {
 div#headly {
   background-color: rgb(220,218,202);
 }
+div#headWrap {
+  background-color: rgb(220,218,202);
+  padding: 0px 0; 
+}
 header h1{
   color: rgb(255,255,255);
 }
@@ -356,9 +366,20 @@ div#footerly {
   visibility: hidden;
   clear: both;
 }
+
 #content { 
-  margin-bottom: 3em; 
 }
+
+#ankita {
+  width: 400px;
+  float: left; 
+}
+#cannedElephant {
+  width: 400px; 
+  float: left; 
+}
+
+
 
 #content header {
   margin: 0; 
